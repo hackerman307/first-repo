@@ -7,6 +7,8 @@ Table of contents:
 
 ## Introduction
 
+This is my first repository.
+
 ## Demo
 
 ## Contributions
