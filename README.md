@@ -16,3 +16,6 @@ A common way of installing items, such as using Yarn, NuGet, or Homebrew, can oc
 Use examples liberally and, if you can, display the expected output. The smallest example of use that you can illustrate is useful to have inline, while offering links to more sophisticated examples if they are too lengthy to be fairly included in the README.
 
 ## Contributions
+State if you are open to contributions and what your conditions are for them to be accepted. 
+
+It's nice to have some documentation on how to get started for people who want to make improvements to your project. Maybe there is a script that they should run or some variables that they need to configure for the system. Make clear these steps. Such directions may be beneficial to your future self, too.
