@@ -12,6 +12,7 @@ Let individuals know precisely what the initiative will accomplish. Providing me
 ## Installation
 A common way of installing items, such as using Yarn, NuGet, or Homebrew, can occur within a specific ecosystem. Nevertheless, consider the chance that someone reading your README is a beginner and would like more guidance. It helps to eliminate uncertainty and get people to use your project as easily as possible by listing detailed steps. If it only runs in a particular setting, such as a variant of a specific programming language or operating system, or if it has dependencies that need to be enabled manually.
 
-## Demo
+## Usage
+Use examples liberally and, if you can, display the expected output. The smallest example of use that you can illustrate is useful to have inline, while offering links to more sophisticated examples if they are too lengthy to be fairly included in the README.
 
 ## Contributions
